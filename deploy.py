@@ -1,2 +1,5 @@
 #deploy a python web application
-python('Hello Word')
+#python('Hello Word')
+
+print('hello word')
+
